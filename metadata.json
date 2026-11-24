@@ -1,0 +1,6 @@
+{
+  "name": "Clearway",
+  "description": "Smart task planner and daily productivity workspace with calendar view, deadline notifications, and category organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
